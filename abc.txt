@@ -3,6 +3,9 @@ its my demo on git
 it is the second line of git 
 <<<<<<< HEAD
 it is the third line in git
+it is the fourth line in the git
+
+
 
 =======
 >>>>>>> 171dd6213ac16a592cf7f8097be93ae7e7a8f2bb
