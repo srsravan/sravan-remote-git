@@ -1,2 +1,5 @@
 its my demo on git
 
+it is the second line of git 
+it is the third line in git
+
